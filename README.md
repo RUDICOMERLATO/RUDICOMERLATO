@@ -1,7 +1,7 @@
 <div>
-  <h1 align="center"> SOU RUDI COMERLATO<br>SEJA BEM VINDO.<br>
+  <h1 align="center" SOU RUDI COMERLATO <p> SEJA BEM VINDO.<p>
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
-    <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/></h1>
+    <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/> </h1>
     
    <div>
 
