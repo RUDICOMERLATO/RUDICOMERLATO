@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"># # SOU RUDI COMERLATO<p style=”color:blue”>Azul</p><P>SEJA BEM VINDO<P>
+  <h1 align="center"> SOU RUDI COMERLATO<p style=”color:blue”>Azul</p><P>SEJA BEM VINDO<P>
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
     <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/></h1>
     
@@ -12,8 +12,8 @@
   
 <div align="center">
   <a href="https://github.com/RUDICOMERLATO">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
