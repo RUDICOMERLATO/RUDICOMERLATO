@@ -6,9 +6,9 @@
    <div>
    <ul>
     <li>Sou de <strong>Caçador/SC</strong> 🏖️
-    <li>Estudante <strong>Desenvolvimento Web</strong> :computer:
- Trabalho Com Controlador da Qualidade.     
-##No Momento com projeto em PYTHON
+    <li>Estudante <strong>Desenvolvimento Web</strong> :computer:</div>
+ Trabalho Com Controlador da Qualidade. </div>   
+No Momento com projeto em PYTHON</div>
             
 Cursos nas Tecnologias.
                <li>HTML5, CSS3✔️</li>
