@@ -2,14 +2,14 @@
   <h1 align="center"> SOU RUDI COMERLATO<P>SEJA BEM VINDO.<P>
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
     <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/></h1>
-    <H2></H2>
+    
       Sou de <strong>Caçador/SC 🏖️ 
-      <P>Na Atualidade Trabalho como Controlador Da QUALIDADE
-        <P>Estou conhecendo HTML5 e CSS3 Linguagem de Marcação
-          <p>
-        
-      
-
+      <P>Na Atualidade Trabalho como Controlador da Qualidade.
+        <P>Estou conhecendo HTML5 Linguagem de Marcação,CSS3 .
+          <p>tenho comecimento em :
+<img align="center" alt="React" height="30" width="40" src="<img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">    
+<H2></H2> 
 </div>
   
 <div align="center">
