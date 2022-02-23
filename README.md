@@ -7,9 +7,10 @@
    <ul>
     <li>Sou de <strong>Caçador/SC</strong> 🏖️
     <li>Estudante <strong>Desenvolvimento Web</strong> :computer:
+ Trabalho Com Controlador da Qualidade.     
 ##No Momento com projeto em PYTHON
             
-Conhecimento nas Tecnologia.
+Cursos nas Tecnologias.
                <li>HTML5, CSS3✔️</li>
                <li>MySQL✔️</li>
                <li>Marketing Digital✔️</li>
@@ -20,10 +21,8 @@ Conhecimento nas Tecnologia.
          <li>Redes de Computadores✔️</li>
          <li>Hardware✔️</li>
          
-            </ul>
-       </ul>   
-    <li>Trabalho Com <strong>Controlador da Qualidade</strong> :mortar_board:
-</div>
+
+
   
 <div align="center">
   <a href="https://github.com/RUDICOMERLATO">
