@@ -23,15 +23,15 @@ Cursos nas Tecnologias.
          
 
 
-  
-<div align="center">
+<br><br>
+ <div>
   <a href="https://github.com/RUDICOMERLATO">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=16&theme=react"/>
 </div>
-    <H2></H2>
 <div align="center" valign="top"><br>
+  
+  
 
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
