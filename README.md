@@ -9,11 +9,17 @@
     <li>Estudante <strong>Desenvolvimento Web</strong> :computer:
        <ul>
           <li>No Momento com projeto em PYTHON <strong>:</li>
-            <ul>
-               <li> <img align="center" alt="mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">✔️</li>
-               <li>Front end ✔️</li>
-               <li>Back end ✔️</li>
-               <li>Ciência da computação⬅️</li>
+Conhecimento nas Tecnologia.
+               <li>HTML5, CSS3✔️</li>
+               <li>MySQL✔️</li>
+               <li>Marketing Digital✔️</li>
+               <li>Bases Numéricas✔️</li>
+         <li>Visual Basic .NET✔️</li>
+         <li>Visual Basic EXEL✔️</li>
+         <li>Hardware✔️</li>
+         <li>Redes de Computadores✔️</li>
+         <li>Hardware✔️</li>
+         
             </ul>
        </ul>   
     <li>Trabalho Com <strong>Controlador da Qualidade</strong> :mortar_board:
