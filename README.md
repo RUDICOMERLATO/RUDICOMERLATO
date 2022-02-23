@@ -3,12 +3,20 @@
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
     <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/></h1>
     
-      Sou de Caçador/SC 🏖️ 
-      Na Atualidade Trabalho como Controlador da Qualidade.
-        Estou conhecendo HTML5 Linguagem de Marcação,CSS3 .
-          tenho comecimento em :
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">    
-<H2></H2> 
+   <div>
+   <ul>
+    <li>Sou de <strong>Caçador/SC</strong> 🏖️
+    <li>Estudante <strong>Desenvolvimento Web</strong> :computer:
+       <ul>
+          <li>No Momento com projeto em PYTHON <strong>:</li>
+            <ul>
+               <li> <img align="center" alt="mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">✔️</li>
+               <li>Front end ✔️</li>
+               <li>Back end ✔️</li>
+               <li>Ciência da computação⬅️</li>
+            </ul>
+       </ul>   
+    <li>Trabalho Com <strong>Controlador da Qualidade</strong> :mortar_board:
 </div>
   
 <div align="center">
