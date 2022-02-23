@@ -11,7 +11,8 @@
 No Momento com projeto em PYTHON</div>
             
 Cursos nas Tecnologias.
-               <li>HTML5, CSS3✔️</li>
+               <li>HTML5, CSS3✔️</li>  <img align="
+right" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
                <li>MySQL✔️</li>
                <li>Marketing Digital✔️</li>
                <li>Bases Numéricas✔️</li>
@@ -32,7 +33,7 @@ Cursos nas Tecnologias.
 </div>
     <H2></H2>
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="<img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
+
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
