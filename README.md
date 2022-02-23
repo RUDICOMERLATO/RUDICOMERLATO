@@ -12,7 +12,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-<div align="center">
+    <H2></H2>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="<img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
