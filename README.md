@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> SOU RUDI COMERLATO<P>SEJA BEM VINDO.
+  <h1 align="center"> SOU RUDI COMERLATO<br>SEJA BEM VINDO.<br>
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
     <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/></h1>
     
