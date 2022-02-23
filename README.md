@@ -37,8 +37,8 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/ANIMA%C3%87%C3%83O.svg)
   
 </div>
 
