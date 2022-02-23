@@ -26,8 +26,8 @@ Cursos nas Tecnologias.
 <br><br>
  <div>
   <a href="https://github.com/RUDICOMERLATO">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=16&theme=react"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="140em" align="UP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=16&theme=react"/>
 </div>
 <div align="center" valign="top"><br>
   
