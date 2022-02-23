@@ -8,7 +8,7 @@
     <li>Sou de <strong>Caçador/SC</strong> 🏖️
     <li>Estudante <strong>Desenvolvimento Web</strong> :computer:
 
-          <li>No Momento com projeto em PYTHON <strong>:</li><P>
+          <li>No Momento com projeto em PYTHON <strong>:</li>
             
 Conhecimento nas Tecnologia.
                <li>HTML5, CSS3✔️</li>
