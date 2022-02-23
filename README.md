@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">RUDI COMERLATO<P>SEJA BEM VINDO .</i></a <img align="center" alt="React" height="30" width="40" src="<img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/></h1>
+  <h1 align="center">SOU RUDI COMERLATO<P>SEJA BEM VINDO<>img align="center" alt="React" height="30" width="40" src="<img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/></h1>
   <p align="center">Estudo Desenvolvimento Web na>
   </a><br>
 </div>
