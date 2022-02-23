@@ -2,7 +2,12 @@
   <h1 align="center"> SOU RUDI COMERLATO<P>SEJA BEM VINDO.<P>
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
     <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/></h1>
-    <H2>      <li>Sou de <strong>Caçador/SC</strong> 🏖️ </H2>
+    <H2>Sou de <strong>Caçador/SC 🏖️ 
+      <P>Na Atualidade Trabalho como Controlador Da QUALIDADE
+        <P>Estou conhecendo HTML5 e CSS3 Linguagem de Marcação
+          <p>
+        
+        </H2>
 
 </div>
   
