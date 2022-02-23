@@ -11,7 +11,7 @@
 No Momento com projeto em PYTHON</div>
             
 Cursos nas Tecnologias.
-               <li>HTML5, CSS3✔️ <img align="
+               <li>HTML5, CSS3✔️<br><br><br><br><br><br><br><br><br><br><br> <img align="
 right" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></li> 
                <li>MySQL✔️</li>
                <li>Marketing Digital✔️</li>
