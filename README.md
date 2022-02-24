@@ -12,6 +12,7 @@
 
   <p><br>          
 Cursos nas Tecnologias.
+<<<<<<< HEAD
                <li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
                "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
 <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/stickers/100/000000/thin-client.png"/>
@@ -31,6 +32,17 @@ Cursos nas Tecnologias.
 <li>Hardware✔️
 <li>Redes de Computadores✔️
 <li>Hardware✔️
+=======
+               <li>HTML5, CSS3✔️    <img align="right" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></li>
+               <li>MySQL✔️</li>
+               <li>Marketing Digital✔️</li>
+               <li>Bases Numéricas✔️</li>
+         <li>Visual Basic .NET✔️</li>
+         <li>Visual Basic EXEL✔️</li>
+         <li>Hardware✔️</li>
+         <li>Redes de Computadores✔️</li>
+         <li>Hardware✔️</li>
+>>>>>>> 0fca1f2275cf4839d8b034ad14b8948ae4105da1
          
 
 
