@@ -24,14 +24,15 @@
 <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluency/240/000000/mysql-logo.png"/>
 <img align="right" alt="MySQL" height="48" width="48" src= "https://img.icons8.com/color/144/000000/html-5--v1.png"valign="left"/>
 
-<li> MySQL✔️
-<li>Marketing Digital✔️ 
-<li>Bases Numéricas✔️
-<li>Visual Basic .NET✔️
-<li>Visual Basic EXEL✔️
-<li>Hardware✔️
+<li> MySQL               ✔️
+<li>Marketing Digital    ✔️ 
+<li>Bases Numéricas      ✔️
+<li>Visual Basic .NET    ✔️
+<li>Visual Basic EXEL    ✔️
+<li>Hardware             ✔️
 <li>Redes de Computadores✔️
-<li>Hardware✔️
+<li>Hardware             ✔️
+ <li>GIT                 ✔️ 
       
 <br><br>
  <div>
