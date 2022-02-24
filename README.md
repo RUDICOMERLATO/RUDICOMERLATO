@@ -11,7 +11,7 @@
  ><strong>Sou de Caçador / SC<p> * Estudante Desenvolvimento Web <p>* Trabalho Com Controlador da Qualidade. <p>* No Momento com projeto em PYTHON </div>
 
   <p><br>          
-Cursos nas Tecnologias.
+<img align="right"  src="https://img.icons8.com/cute-clipart/64/000000/information.png"/>  Tech Stac
 
 <li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
  "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
@@ -56,6 +56,10 @@ Cursos nas Tecnologias.
 <div align="center">
 
   ![Snake animation](https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/ANIMA%C3%87%C3%83O.svg)
+  
+  
+  
+   <td height="41" align="right" class="line1"><div class="counter"><span class="rts-counter" rel="internet_users"><span class="rts-nr-sign"></span><span class="rts-nr-int rts-nr-10e9">5</span><span class="rts-nr-thsep">.</span><span class="rts-nr-int rts-nr-10e6">217</span><span class="rts-nr-thsep">.</span><span class="rts-nr-int rts-nr-10e3">286</span><span class="rts-nr-thsep">.</span><span class="rts-nr-int rts-nr-10e0">247</span></span></div></td>
   
 
 
