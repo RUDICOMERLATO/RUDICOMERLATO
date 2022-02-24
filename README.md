@@ -1,25 +1,36 @@
+
+
 <div>
-  <h1 align="center" SOU RUDI COMERLATO <p> SEJA BEM VINDO.<p>
+  <h1 ALIGN="center" SOU RUDI COMERLATO <p> SEJA BEM VINDO.
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
-    <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/> </h1>
+    <img src="https://img.icons8.com/color/50/000000/code-fork--v1.png"/>
+     </h1>
     
    <div>
 
-    <li>Sou de <strong>Caçador/SC</strong> 🏖️
-    <li>Estudante <strong>Desenvolvimento Web</strong> :computer:</div>
- Trabalho Com Controlador da Qualidade. </div>   
-No Momento com projeto em PYTHON</div>
-  <br><br>          
+ ><strong>Sou de Caçador / SC<p> * Estudante Desenvolvimento Web <p>* Trabalho Com Controlador da Qualidade. <p>* No Momento com projeto em PYTHON </div>
+
+  <p><br>          
 Cursos nas Tecnologias.
-               <li>HTML5, CSS3✔️    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></li>
-               <li>MySQL✔️</li>
-               <li>Marketing Digital✔️</li>
-               <li>Bases Numéricas✔️</li>
-         <li>Visual Basic .NET✔️</li>
-         <li>Visual Basic EXEL✔️</li>
-         <li>Hardware✔️</li>
-         <li>Redes de Computadores✔️</li>
-         <li>Hardware✔️</li>
+               <li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
+               "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
+<img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/stickers/100/000000/thin-client.png"/>
+<img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluency/144/000000/visual-studio.png"/></li>
+
+
+  <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/color/48/000000/base-64.png"/>             
+   <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>    
+<img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluency/240/000000/mysql-logo.png"/>
+<img align="right" alt="MySQL" height="48" width="48" src= "https://img.icons8.com/color/144/000000/html-5--v1.png"valign="left"/>
+
+<li> MySQL✔️
+<li>Marketing Digital✔️ 
+<li>Bases Numéricas✔️
+<li>Visual Basic .NET✔️
+<li>Visual Basic EXEL✔️
+<li>Hardware✔️
+<li>Redes de Computadores✔️
+<li>Hardware✔️
          
 
 
@@ -27,23 +38,13 @@ Cursos nas Tecnologias.
  <div>
   <a href="https://github.com/RUDICOMERLATO">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="166em" align="RIGHT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=12&theme=react"/>
+  <img height="166em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=12&theme=react"/>
 </div>
-<div align="center" valign="top"><br>
+<div align="center" valign="right"><br>
   
   
 
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ 
 </div><br>
 
 <div align="center">
