@@ -32,25 +32,12 @@ Cursos nas Tecnologias.
 <li>Hardware✔️
 <li>Redes de Computadores✔️
 <li>Hardware✔️
-=======
-               <li>HTML5, CSS3✔️    <img align="right" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></li>
-               <li>MySQL✔️</li>
-               <li>Marketing Digital✔️</li>
-               <li>Bases Numéricas✔️</li>
-         <li>Visual Basic .NET✔️</li>
-         <li>Visual Basic EXEL✔️</li>
-         <li>Hardware✔️</li>
-         <li>Redes de Computadores✔️</li>
-         <li>Hardware✔️</li>
->>>>>>> 0fca1f2275cf4839d8b034ad14b8948ae4105da1
-         
-
-
+      
 <br><br>
  <div>
   <a href="https://github.com/RUDICOMERLATO">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="166em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=12&theme=react"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=RUDICOMERLATO&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="156em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDICOMERLATO&layout=compact&langs_count=12&theme=react"/>
 </div>
 <div align="center" valign="right"><br>
   
@@ -62,7 +49,6 @@ Cursos nas Tecnologias.
 <div align="center">
   <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rudicomerlato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/rudicomerlato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:Rudicomerlato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
