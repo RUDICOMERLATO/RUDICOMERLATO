@@ -13,8 +13,8 @@
   <p><br>          
 Cursos nas Tecnologias.
 
-               <li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
-               "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
+<li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
+ "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
 <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/stickers/100/000000/thin-client.png"/>
 <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluency/144/000000/visual-studio.png"/></li>
 
