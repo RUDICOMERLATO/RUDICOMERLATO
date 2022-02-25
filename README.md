@@ -11,7 +11,7 @@
  ><strong>Sou de Caçador / SC<p> * Estudante Desenvolvimento Web <p>* Trabalho Com Controlador da Qualidade. <p>* No Momento com projeto em PYTHON </div>
 
   <p><br>          
-<img align="LIGHT"  src="https://img.icons8.com/cute-clipart/64/000000/information.png"/>Tech Stacks
+<img align="LIGHT"  src="src="https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/12.jpg"/>Tech Stacks
 
 <li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
  "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
