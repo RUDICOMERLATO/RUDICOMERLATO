@@ -1,5 +1,3 @@
-
-
 <div>
   <h1 ALIGN="center" SOU RUDI COMERLATO <p> SEJA BEM VINDO.
     <img src="https://img.icons8.com/fluency/48/000000/party-baloons.png"/>
@@ -10,12 +8,17 @@
 
  ><strong>Sou de Caçador / SC<p> * Estudante Desenvolvimento Web <p>* Trabalho Com Controlador da Qualidade. <p>* No Momento com projeto em PYTHON </div>
 
-  <p><br>          
-img src="https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/12.jpg"/
+  <p><br> <hr/>  
 
-<li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src=
- "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-stock-exchange-app-accounting-flaticons-lineal-color-flat-icons.png"/>
-<img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/stickers/100/000000/thin-client.png"/>
+<img align="leth" alt="HTML5" height="44" width="44" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-data-collection-data-science-becris-flat-becris.png"/>stack<p><p>
+
+ <p><br>          
+
+<li>HTML5, CSS3✔️ <img align="right" alt="HTML5" height="48" width="48" src="https://img.icons8.com/color/48/000000/video-card.png"/><img align="right" alt="HTML5" height="48" width="48"  src="https://img.icons8.com/color/48/000000/broadcasting.png"/><img align="right" alt="HTML5" height="48" width="48"  src="https://img.icons8.com/color/48/000000/git.png"/> 
+
+
+
+<img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-insides.png"/>
 <img align="right" alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluency/144/000000/visual-studio.png"/></li>
 
 
@@ -33,7 +36,8 @@ img src="https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/12.jpg"/
 <li>Redes de Computadores✔️
 <li>Hardware             ✔️
  <li>GIT                 ✔️ 
-      
+
+ <hr/>     
 <br><br>
  <div>
   <a href="https://github.com/RUDICOMERLATO">
@@ -59,7 +63,3 @@ img src="https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/12.jpg"/
   ![Snake animation](https://github.com/RUDICOMERLATO/RUDICOMERLATO/blob/main/ANIMA%C3%87%C3%83O.svg)
   
 <a href="http://weavesilk.com/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/dcf46f089c552f989ec07a9af8cdb54116fcce1f1bc327d3a652b7b6ff782852/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3166686a3246573036363156334e62324d652f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" style="max-width: 100%;">
-  
-
-
-
