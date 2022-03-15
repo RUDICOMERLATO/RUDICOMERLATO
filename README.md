@@ -34,7 +34,6 @@
 <li>Visual Basic EXEL    ✔️
 <li>Hardware             ✔️
 <li>Redes de Computadores✔️
-<li>Hardware             ✔️
  <li>GIT                 ✔️ 
 
  <hr/>     
