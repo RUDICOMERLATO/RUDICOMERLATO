@@ -10,7 +10,7 @@
 
   <p><br> <hr/>  
 
-<img align="right" alt="MySQL" height="48" width="48" src="https://cdn.icon-icons.com/icons2/3337/PNG/512/book_books_read_study_school_icon_209980.png"/>stack<p><p>
+<img align="left" alt="MySQL" height="48" width="48" src="https://cdn.icon-icons.com/icons2/3337/PNG/512/book_books_read_study_school_icon_209980.png"/>stack<p><p>
 
  <p><br>          
 
